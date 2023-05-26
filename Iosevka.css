@@ -2,21 +2,21 @@
     font-family: "Iosevka NF";
     font-style: normal;
     font-weight: 200;
-    src: url('IosevkaNerdFont-Light.ttf' format('truetype'));
+    src: url('https://github.com/aharenaz/blinksh_fonts/blob/master/IosevkaNerdFont-Light.ttf' format('truetype'));
 }
 @font-face {
     font-family: "Iosevka NF";
     font-style: normal;
     font-weight: 400;
-    src: url('IosevkaNerdFont-Regular.ttf' format('truetype'));
+    src: url('https://github.com/aharenaz/blinksh_fonts/blob/master/IosevkaNerdFont-Regular.ttf' format('truetype'));
 }
 @font-face {
     font-family: "Iosevka NF";
     font-weight: 500;
-    src: url('IosevkaNerdFont-Medium.ttf' format('truetype'));
+    src: url('https://github.com/aharenaz/blinksh_fonts/blob/master/IosevkaNerdFont-Medium.ttf' format('truetype'));
 }
 @font-face {
     font-family: "Iosevka NF";
     font-weight: 700;
-    src: url('IosevkaNerdFont-Bold.ttf' format('truetype'));
+    src: url('https://github.com/aharenaz/blinksh_fonts/blob/master/IosevkaNerdFont-Bold.ttf' format('truetype'));
 }
