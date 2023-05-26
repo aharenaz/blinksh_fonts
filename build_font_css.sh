@@ -14,7 +14,7 @@ cat << EOF
   font-family: "Iosevka NF";
   $s
   font-weight: $w;
-  src: url(data:font/ttf;charset=utf-8;base64,$(echo -n $(base64 IosevkaNerdFont-$t.ttf)));
+  src: url(data:font/ttf;charset=utf-8;base64,$(echo -n $(base64 -w 0 IosevkaNerdFont-$t.ttf)));
 }
 EOF
 done
